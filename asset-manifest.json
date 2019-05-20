@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-cards-api/static/css/main.605ebaa2.chunk.css",
+    "main.js": "/react-cards-api/static/js/main.03798a6f.chunk.js",
+    "main.js.map": "/react-cards-api/static/js/main.03798a6f.chunk.js.map",
+    "runtime~main.js": "/react-cards-api/static/js/runtime~main.a92911af.js",
+    "runtime~main.js.map": "/react-cards-api/static/js/runtime~main.a92911af.js.map",
+    "static/js/2.269d2553.chunk.js": "/react-cards-api/static/js/2.269d2553.chunk.js",
+    "static/js/2.269d2553.chunk.js.map": "/react-cards-api/static/js/2.269d2553.chunk.js.map",
+    "index.html": "/react-cards-api/index.html",
+    "precache-manifest.6dab1a8ece41ceef4568d053d253e1a8.js": "/react-cards-api/precache-manifest.6dab1a8ece41ceef4568d053d253e1a8.js",
+    "service-worker.js": "/react-cards-api/service-worker.js",
+    "static/css/main.605ebaa2.chunk.css.map": "/react-cards-api/static/css/main.605ebaa2.chunk.css.map"
+  }
+}
